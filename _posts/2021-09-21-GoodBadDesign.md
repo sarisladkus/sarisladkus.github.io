@@ -13,4 +13,9 @@ Find two examples of design – one good and one bad. The examples should be in 
 
 Good Design Example:
 
-The Apple Watch is an outstanding design because it is sleek and stylish, while also being highly functional. Its industrial design makes it super easy to find what is needed, which is also linked to the discoverability, making it super easy to use for all age groups. The back of the watch has a sensor to measure heart rate and movement of the body. It can also be regularly updated by Apple so the owner is able to keep up with bug fixes without having to purchase a new watch.
+The Apple Watch is an outstanding design because it is sleek and stylish, while also being highly functional. Its **industrial design** makes it super easy to find what is needed, which is also linked to the **discoverability**, making it super easy to use for all age groups. The back of the watch has a sensor to measure heart rate and movement of the body. It can also be regularly updated by Apple so the owner is able to keep up with bug fixes without having to purchase a new watch.
+
+
+Bad Design Example:
+
+This is VERY specific, but the NYU Langone app that I have to use to keep in contact with one of my doctors is so poorly designed for many reasons. First off, it is mapped out horribly and is so difficult to navigate. Each button is very misleading and takes the user to another page that seemingly has nothing to do with what was wanted. It always takes me at least 5 minutes to find one tab that should take a person 2 seconds. Its **interaction design** was not well-thought out!  
