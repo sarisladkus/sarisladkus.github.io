@@ -13,7 +13,7 @@ Find two examples of design – one good and one bad. The examples should be in 
 
 Good Design Example:
 
-![alt text](https://media.istockphoto.com/photos/apple-watch-sport-42mm-silver-aluminum-case-with-white-band-picture-id496730484?k=20&m=496730484&s=612x612&w=0&h=uWoESqN4MdfkkwwDCU66XAksagvbPD9FnWKNHl7xSwU=) "Logo Title Text 1")
+![alt text](https://media.istockphoto.com/photos/apple-watch-sport-42mm-silver-aluminum-case-with-white-band-picture-id496730484?k=20&m=496730484&s=612x612&w=0&h=uWoESqN4MdfkkwwDCU66XAksagvbPD9FnWKNHl7xSwU=)
 
 The Apple Watch is an outstanding design because it is sleek and stylish, while also being highly functional. Its **industrial design** makes it super easy to find what is needed, which is also linked to the **discoverability**, making it super easy to use for all age groups. The back of the watch has a sensor to measure heart rate and movement of the body. It can also be regularly updated by Apple so the owner is able to keep up with bug fixes without having to purchase a new watch.
 
