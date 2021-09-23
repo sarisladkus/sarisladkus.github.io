@@ -20,4 +20,6 @@ The Apple Watch is an outstanding design because it is sleek and stylish, while 
 
 Bad Design Example:
 
+![alt text](https://strollerinthecity.com/wp-content/uploads/2019/10/Screen-Shot-2019-10-28-at-1.39.51-PM.png)
+
 This is VERY specific, but the NYU Langone app that I have to use to keep in contact with one of my doctors is so poorly designed for many reasons. First off, it is mapped out horribly and is so difficult to navigate. Each button is very misleading and takes the user to another page that seemingly has nothing to do with what was wanted. It always takes me at least 5 minutes to find one tab that should take a person 2 seconds. Its **interaction design** was not well-thought out!  
