@@ -15,7 +15,7 @@ Good Design Example:
 
 The Apple Watch is an outstanding design because it is sleek and stylish, while also being highly functional. Its **industrial design** makes it super easy to find what is needed, which is also linked to the **discoverability**, making it super easy to use for all age groups. The back of the watch has a sensor to measure heart rate and movement of the body. It can also be regularly updated by Apple so the owner is able to keep up with bug fixes without having to purchase a new watch.
 
-<img /https://149493502.v2.pressablecdn.com/wp-content/uploads/2015/05/apple-watch-stocks-glance.jpg>
+https://lh3.googleusercontent.com/JgqXHJypnxbTisjf4y7o6piy6OzdLJdfDoQ0NK4w3QDzdfnhpUB-q_XTIcmNKh_3d1D8LA=s128
 
 
 Bad Design Example:
